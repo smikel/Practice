@@ -4,11 +4,15 @@
   "metadata": {
     "colab": {
       "provenance": [],
+      "authorship_tag": "ABX9TyMlb6wxUl2/GhAA1DGhlKDP",
       "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
       "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
     }
   },
   "cells": [
@@ -24,50 +28,14 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "3CceTXG88l10",
-        "outputId": "6c661c70-321a-491d-a5f2-ba5d7f2ed564"
+        "id": "AGOgGOEg0uEO"
       },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Hello world\n"
-          ]
-        }
-      ],
-      "source": [
-        "print(\"Hello world\")"
-      ]
-    },
-    {
-      "cell_type": "code",
+      "outputs": [],
       "source": [
         "x = input(\"Enter your name\")\n",
         "print(\"Hello \"+x)"
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "zx7kMDEi8tTe",
-        "outputId": "0bd7a56b-30b7-4e30-d94f-26a4844fffd5"
-      },
-      "execution_count": 2,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Enter your nameMK\n",
-            "Hello MK\n"
-          ]
-        }
       ]
     }
   ]
