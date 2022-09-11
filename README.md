@@ -20,6 +20,17 @@ CS229
   
   https://see.stanford.edu/course/cs229
 
+Cheat Sheets
+
+  https://www.datacamp.com/cheat-sheet
+  
+  https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+  
 Other
 
   https://www.learnpython.org/
+  
+  https://automatetheboringstuff.com/
+  
+  https://www.reddit.com/r/learnpython/wiki/index/
+
