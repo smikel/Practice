@@ -9,6 +9,7 @@ Coding
 Courses
 
   https://developers.google.com/machine-learning
+  
   https://developers.google.com/edu/python
 
 ## Other
